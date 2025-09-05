@@ -3,6 +3,7 @@ title: "Education & Experiences"
 date: 2024-05-08
 hidemeta: true
 description: "JSShao's Education & Experiences."
+type = "page"
 
 ---
 
