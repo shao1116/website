@@ -62,7 +62,7 @@ params:
           imageHeight: 160
           buttons:
             - name: Education & Experiences
-              url: Education_experience/
+              url: Education/
             - name: Publications
               url: papers/
             - name: Awards & honors
