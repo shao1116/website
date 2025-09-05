@@ -61,7 +61,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Education & Experiences
+              url: Education_experience/
+            - name: Publications
               url: papers/
             - name: Data
               url: data/
@@ -73,8 +75,8 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+#            - name: Blog
+#              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
