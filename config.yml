@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Jheng-Syuan Shao
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -65,6 +65,8 @@ params:
               url: Education_experience/
             - name: Publications
               url: papers/
+            - name: Awards & honors
+              url: Awards_honors/
             - name: Data
               url: data/
             - name: Books
